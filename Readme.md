@@ -1,0 +1,1 @@
+Plataforma baseada no site da microsoft, com o intuito de aprimorar e testar minhas habilidades em HTML e CSS
